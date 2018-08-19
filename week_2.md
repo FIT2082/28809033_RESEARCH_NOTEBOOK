@@ -21,6 +21,5 @@ The Bendigo Art Gallery is looking to improve its collection to make it more acc
 
 
 ## Reflection
-* Didn't know there are several levels of vision impariment (from partial to full)
-* There are LOTS of people with vision impairment. 
+We met up with the supervisor and learnt about the segment of people who struggle with everyday things that we take for granted. It highlighted the importance of inclusiveness and motivated me lots to research to improve lives of people with vision impairment. 
 
