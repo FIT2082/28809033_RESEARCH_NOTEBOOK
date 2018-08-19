@@ -3,6 +3,9 @@
 ## Introduction
 Vision impaired people have a different perception of the world. We met up with Matthew Butler, who will be supervising our work throughout the semester. 
 
+![alt text](https://wels.net/wp-content/uploads/2015/04/842x342-SM-VisuallyImpaired1.jpg "Vision Impaired People")
+
+
 Matthew introduced us to several things we take for granted that vision imparied people struggle with in various aspects of daily lives.
 
 #### Education
