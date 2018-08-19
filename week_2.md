@@ -19,3 +19,7 @@ There is scope to investigate and improve O&M, by constructing better 3D Maps an
 #### Cultural
 
 
+## Reflection
+* Didn't know there are several levels of vision impariment (from partial to full)
+* There are LOTS of people with vision impairment. 
+
