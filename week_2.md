@@ -7,9 +7,9 @@ Matthew introduced us to several things we take for granted that vision imparied
 
 There are many problems in the vision impaired space.
 
-. Education
+* Education
 
-. Orientation and Mobility
+* Orientation and Mobility
 
-. Cultural
+* Cultural
 
