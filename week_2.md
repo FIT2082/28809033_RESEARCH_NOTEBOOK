@@ -24,5 +24,11 @@ The Bendigo Art Gallery is looking to improve its collection to make it more acc
 
 
 ## Reflection
-We met up with the supervisor and learnt about the segment of people who struggle with everyday things that we take for granted. It highlighted the importance of inclusiveness and motivated me lots to research to improve lives of people with vision impairment. 
+We met up with the supervisor and learnt about the segment of people who struggle with everyday things that we take for granted. It highlighted the importance of inclusiveness and motivated me lots to research to improve lives of people with vision impairment.
+
+We have had a think about the opportunities for the project and have come up with an interesting basic idea for the project. Our focus will be to integrate low cost electronics and have smartphone connectivity with a model of a place to create interactive content that will help vision impaired people better understand their surroundings. 
+
+Me and my research partner are really excited about the project, as certain aspects are in our interst and fields of expertise united by the drive to help the vision impaired people. 
+
+It is about the marriage of 3D Models and smartphones. Parth's expertise lies in 3D printing and electronics. My experise lies in smartphone apps. We're hoping to utilize both skill sets to create something new, helpful and interactive. 
 
