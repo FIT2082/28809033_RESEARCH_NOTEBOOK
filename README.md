@@ -1,2 +1,12 @@
-# 28809033_RESEARCH_NOTEBOOK
-Ishan JOSHI
+# 3D Printing and Low Cost Electronics for Vision Impaired.
+
+## Team
+* Ishan Joshi
+* Parth Patel
+
+## Supervisor
+* Matthew Butler
+
+
+
+
