@@ -17,6 +17,7 @@ There is scope to investigate and improve O&M, by constructing better 3D Maps an
 
 
 #### Cultural
+The Bendigo Art Gallery is looking to improve its collection to make it more accessible for the vision impaired. 3D tactile recreation, sound-version of the painting to create an atmosphere and magnification are several methods being utlised. It's about providing an inclusive experience for all citizens, hence a big emphasis needs to be placed on the problems for the vision impaired. 
 
 
 ## Reflection
