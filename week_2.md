@@ -28,7 +28,7 @@ We met up with the supervisor and learnt about the segment of people who struggl
 
 We have had a think about the opportunities for the project and have come up with an interesting basic idea for the project. Our focus will be to integrate low cost electronics and have smartphone connectivity with a model of a place to create interactive content that will help vision impaired people better understand their surroundings. 
 
-Me and my research partner are really excited about the project, as certain aspects are in our interst and fields of expertise united by the drive to help the vision impaired people. 
+Me and my research partner are really excited about the project, as certain aspects are in our interst and fields of expertise united by the drive to help the vision impaired people. We are really inclided towards modelling a train station to improve O&M for the vision impaired. It is something we both find comforable to use our skills upon.
 
 It is about the marriage of 3D Models and smartphones. Parth's expertise lies in 3D printing and electronics. My experise lies in smartphone apps. We're hoping to utilize both skill sets to create something new, helpful and interactive. 
 
