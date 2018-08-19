@@ -1,4 +1,6 @@
-# 3D Printing and Low Cost Electronics for Vision Impaired.
+# 3D Printing and Low Cost Electronics for Vision Impaired
+
+## Introduction
 
 ## Team
 * Ishan Joshi
