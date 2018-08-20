@@ -8,3 +8,11 @@ This week we also visited the SensiLab facility and got a tour of the place. The
 
 ## Knowledge Review
 
+![alt text](https://fit2082.github.io/28809033_RESEARCH_NOTEBOOK/images/Capture.PNG "Accessible 3D Maps - Matthew Butler")
+
+There is a paper "Accessible Maps for the Blind" by Matthew Butler et al. that focusses on the development of 3D models and comparing them with tactile printed maps. There exists interactive 3D models which can be touched and play audio files based on the touch. It is fairly limited and we aim to extend the functionality to allow connection with smartphones.
+
+Other than the touch sensor based 3D models, there are not many alternatives available. 
+
+
+
