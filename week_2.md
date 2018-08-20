@@ -32,3 +32,5 @@ Me and my research partner are really excited about the project, as certain aspe
 
 It is about the marriage of 3D Models and smartphones. Parth's expertise lies in 3D printing and electronics. My experise lies in smartphone apps. We're hoping to utilize both skill sets to create something new, helpful and interactive. 
 
+[Next](/week_3)
+
