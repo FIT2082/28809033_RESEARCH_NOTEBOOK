@@ -54,6 +54,8 @@ It was after calling the *GET* /v3/search/{search_term} with __search_term = fli
 
 ## Outcome
 
+*User can select platform and it would show the next departure after fetching the data realtime from PTV API*
+
 ![alt text](https://fit2082.github.io/28809033_RESEARCH_NOTEBOOK/images/app_initial_demo.gif "App Demo MyStation")
 
 ## Android App
