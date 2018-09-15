@@ -56,6 +56,23 @@ It was after calling the *GET* /v3/search/{search_term} with __search_term = fli
 
 ![alt text](https://fit2082.github.io/28809033_RESEARCH_NOTEBOOK/images/app_initial_demo.gif "App Demo MyStation")
 
+## Android App
+By the end of this week, I had a basic app working which fetched data from the API. It could figure out what train line departed next from a certain platform. 
+
+This meant that once the app starts communicating with the Raspberry PI, it will be able to feed in the platform numbers into existing code framework and be able to display and speak out the departures information.
+
+There were the following problems solved to build the application
+* PTV API Requests were made using Google's library Volley
+* API Data Models were created
+* JSON parsing and Java object mapping using GSON.
+* Accessibility testing using the Android's built in text to speech tool.
+
+
+## Reflection
+
+I assumed that the API communications would've been really smooth sailing however turned out to be a tussle with the documentation not being accurate and comprehensive. There is even a notice on the PTV website suggesting no support for the API will be provided. The app turned out to be a challenge but in the end it was quite rewarding to get to the outcome.
+
+
 
 
 
