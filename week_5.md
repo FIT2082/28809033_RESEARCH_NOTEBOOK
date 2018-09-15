@@ -3,6 +3,10 @@
 ## Raspberry PI
 Raspberry PI Model 3 is a very intersting device for a few reasons. The device features inbuilt Bluetooth and Wi-Fi modules. The PI has Bluetooth Low Energy capability that can be used in the project. 
 
+![alt text](https://images-na.ssl-images-amazon.com/images/I/91zSu44%2B34L._SX355_.jpg "Raspberry PI 3")
+
+
+
 The indended usage of the PI is as follows: 
 * BLE: to act as a beacon and transmit values for the phone to recieve in real time (almost) 
 * Wireless: to connect to internet to fetch and update software and use as fallback option if Bluetooth fails
