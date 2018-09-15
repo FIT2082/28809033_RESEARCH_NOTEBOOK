@@ -54,6 +54,8 @@ It was after calling the *GET* /v3/search/{search_term} with __search_term = fli
 
 ## Outcome
 
+![alt text](https://fit2082.github.io/28809033_RESEARCH_NOTEBOOK/images/app_initial_demo.GIF "App Demo MyStation")
+
 
 
 
