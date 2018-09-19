@@ -1,4 +1,4 @@
-# Raspberry PI Setup
+# Raspberry PI Configuration
 
 ## OS
 Official Raspbian is used
