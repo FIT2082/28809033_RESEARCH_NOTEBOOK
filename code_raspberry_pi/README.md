@@ -19,3 +19,11 @@ sudo crontab -e
 @reboot /home/pi/__my__start__script.sh
 ```
 
+### Auto-connect Wi-Fi
+The raspberry PI will autoconnect to a Wireless network with the following details
+```
+SSID: MyPlatform
+Pass: password123.
+```
+This can be used for debugging using a mobile hotspot.
+
