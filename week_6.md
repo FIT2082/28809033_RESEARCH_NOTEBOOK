@@ -15,6 +15,23 @@
 
 After a long time of the app not displaying scan results, it was discovered that to access Bluetooth permission, a Location permission must also be granted by the user.
 
+## App Design
+
+The app follows a standard Android Design, in which there are adapters to handle callback infomration from the relevant API that is used. The app reads the advertising packet at the moment and converts it to a normal string using the following snippet.
+
+
+```java
+String hex = "75546f7f";
+StringBuilder output = new StringBuilder();
+for (int i = 0; i < hex.length(); i+=2) {
+    String str = hex.substring(i, i+2);
+    output.append((char)Integer.parseInt(str, 16));
+}
+System.out.println(output);
+```
+
+
+
 
 
 
