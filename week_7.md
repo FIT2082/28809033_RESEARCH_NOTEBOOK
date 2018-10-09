@@ -31,7 +31,8 @@ The bound value is taken and multiplied by 0.625ms, to get the actual amount of 
 There fastest advertising possible without connection is 100ms, it could be much faster if the devices are paired however for the scope of the project it's not required and adds additional complexity to the application usage. 
 
 
-## Data Encoding in Eddystone
+## Raspberry PI as Eddystone Beacon
 
+I followed a [hackday tutorial](https://webgazer.org/update/tutorial/2016/03/16/raspberrypi-eddystone-url.html) to get a basic Eddystone Beacon working on the Raspberry PI.
 
-## Eddystone Scanner App
+I then installed an app called "BLE Scanner" from Google Play to verify the detection of the Raspberry PI as an EddyStone Beacon and it worked!
