@@ -1,5 +1,7 @@
 ## Eddystone Beacon Protocol
-After much playing around with advertising packets it meant that I was developing my own protocol for the transmission of the data.
+After much playing around with advertising packets it meant that I was developing my own protocol for the transmission of the data. However it'd be much easier to use an existing protocol to make the app and transmitter follow a standard protocol for extensibility in the future. 
+
+Eddystone is described by Google as a tool to "give your users better location and proximity experiences by providing a strong context signal for their devices in the form of Bluetooth low energy (BLE) beacons with Eddystone, the open beacon format from Google." [Google EddyStone Beacon](https://developers.google.com/beacons/)
 
 ## Raspberry PI Advertise Mode
 The raspberry PI advertising mode is a configuration of the bluetooth low energy adapter in which Raspberry PI cannot connect to other clients. It can only broadcast information to nearby device without feedback.
