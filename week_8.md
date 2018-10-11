@@ -16,9 +16,9 @@ pressedSensor = ascii('sensorId') - ascii('A')
 
 Transmitted | URL 
 --- | ---
-0 | https://myp.me?**A**
-1 | https://myp.me?**B**
-2 | https://myp.me?**C**
+0 | https://myp.me?A
+1 | https://myp.me?B
+2 | https://myp.me?C
 
 
 
