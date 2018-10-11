@@ -34,11 +34,10 @@ Debugging it adding sleep to crontab and also run as sudo
 
 ## Capacitive Touch Sensor and Beacon 
 
-Combining code
+Touch sensor polling and advertising made the combination possible. The python script runs the linux commands to change the bluetooth advertising data. 
 
-## Android App for Beacon Reading 
-
-Library and then verifying mac address 
+## Reflection
+This week had been extremely challenging and took a toll on everything as debugging was hard and the times were tough during the semester. 
 
 
 
