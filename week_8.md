@@ -4,7 +4,7 @@ In our case we needed to figure out how to encode the selected sensor in one of 
 
 This is a solution which involves transmitting a URL which encodes the sensor pressed.
 
-So in this project I decided to encode it as https://myp.me/?*sensorId*
+So in this project I decided to encode it as https://myp.me/?sensorId
 
 To do that there were a few steps involved.
 
